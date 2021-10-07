@@ -1,0 +1,5 @@
+- 👋 Hi, I’m James 
+- 👀 I’m interested in Embedded Systems. 
+- 🌱 I’m currently learning Embedded Systems!
+- 💞️ I’m looking to collaborate on Embedded systems!
+- 📫 How to reach me - 2133139@swansea.ac.uk
